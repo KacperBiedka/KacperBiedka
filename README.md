@@ -8,7 +8,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacperBiedka&theme=tokyonight&line_height=45" alt="francislagares" />
 </a>
 
-[![Kacper's github stats](https://github-readme-stats.vercel.app/api?username=KacperBiedka&show_icons=true&theme=tokyonight&count_private=true&count_public=true&hide=stars&line_height=45)](https://github.com/ChrisAchinga/github-readme-stats)
+[![Kacper's github stats](https://github-readme-stats.vercel.app/api?username=KacperBiedka&show_icons=true&theme=tokyonight&count_private=true&count_public=true&hide=stars&line_height=50)](https://github.com/ChrisAchinga/github-readme-stats)
 
 </div>
 
