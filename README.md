@@ -1,5 +1,5 @@
-<div align="center">
-  
+## Hi there :hand:
+<div align="left">
 :fire: My name is Kacper Biedka
 
 :rocket: I play around with frontend stuff, AR, 3D and I am currently taking my first steps in mobile and backend development!
