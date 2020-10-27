@@ -2,7 +2,7 @@
 <div align="left">
 :heart: Node and React
 <br />
-:rocket: I play around with frontend stuff, AR, 3D and I am currently taking my first steps in mobile and backend development!
+:rocket: I play around with frontend stuff, AR, 3D, backend and I am currently taking my first steps in mobile development!
 </div>
 
 
