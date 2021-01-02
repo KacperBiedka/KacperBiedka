@@ -4,8 +4,11 @@
 <br />
 :rocket: I play around with frontend stuff, AR, 3D, backend and I am currently taking my first steps in mobile development!
 </div>
-My real contributions for 2020
-![2020](https://i.imgur.com/pQtZPKM.png)
+<br />
+<p>My real contributions for 2020 (including previous organisation)</p>
+<div>
+<img height="50" alt="2020 contributions" src="https://raw.githubusercontent.com/KacperBiedka/KacperBiedka/master/images/2020.png">
+</div>
 <!--**KacperBiedka/KacperBiedka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
