@@ -5,9 +5,8 @@
 :rocket: I play around with frontend stuff, AR, 3D, backend and I am currently taking my first steps in mobile development!
 </div>
 My real contributions for 2020
-<img src="https://i.imgur.com/a/BlJOtiF.png" />
-<!--
-**KacperBiedka/KacperBiedka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![2020](https://i.imgur.com/pQtZPKM.png)
+<!--**KacperBiedka/KacperBiedka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
