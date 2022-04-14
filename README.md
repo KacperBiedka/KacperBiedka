@@ -1,11 +1,13 @@
-## Hi there :hand:
-<div align="left">
-:heart: Node and React
+### Hi there ~
+
+> *The beginner's mind is the mind of compassion. When our mind is compassionate, it is boundless.*
+
+^ I try to follow that.
+
+<details>
+<summary>⚡️ More about my coding life</summary>
 <br />
-:rocket: I play around with frontend stuff, AR, 3D, backend and I am currently taking my first steps in mobile development!
-</div>
-<br />
-<p>2020 activity including organisation contributions</p>
-<div>
-<img height="150" alt="2020 contributions" src="https://user-images.githubusercontent.com/37370657/103468576-bbe9f700-4d5a-11eb-8969-50128e44cbbe.png">
-</div>
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=kacperbiedka&count_private=true&show_icons=true&theme=onedark)
+
+</details>
