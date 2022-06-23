@@ -1,12 +1,1 @@
-### Hi there 👋
-
-> *The beginner's mind is the mind of compassion. When our mind is compassionate, it is boundless.*
-
-
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=kacperbiedka&count_private=true&show_icons=true&theme=onedark)
-
-</details>
+![fire](https://user-images.githubusercontent.com/37370657/175297627-75009d8b-ff0e-4278-9969-e16a4e3f5fc4.gif)
